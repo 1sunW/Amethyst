@@ -44,7 +44,7 @@ Amethyst is a site unblocker powered by [Ultraviolet](https://github.com/titaniu
 
 **Deploy locally:**
 ```
-git clone https://github.com/DogeNetwork/v4
+git clone https://github.com/1sunW/Amethyst
 cd v4
 npm install
 npm start
